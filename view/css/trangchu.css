@@ -47,7 +47,7 @@ body{
 /*Phần đăng nhập*/
 #login {
     position: relative;
-    background-image: url("login1.png");
+    background-image: url("../img/login1.png");
 
     width: 1170px;
     height: 657px;

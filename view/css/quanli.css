@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+#bar{
+    background-color: #4887B0;
+
+    height: 64px;
+    width: 100%;
+
+    box-shadow: 0px 11px 8px rgba(0, 0, 0, 0.25);
+}
+#bar img {
+    margin-left: 1207.38px;
+}
