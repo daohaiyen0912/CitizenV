@@ -2,7 +2,10 @@
     margin:0;
     padding:0;
 }
+/*Thanh bar quản lý*/
 #bar{
+    z-index: 1;
+
     background-color: #4887B0;
 
     height: 64px;
@@ -13,3 +16,6 @@
 #bar img {
     margin-left: 1207.38px;
 }
+
+
+
